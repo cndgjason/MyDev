@@ -1,0 +1,14 @@
+# flutter
+# 1.install flutter
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+git clone -b stable https://gitee.com/mirrors/Flutter.git
+export PATH="$PWD/flutter/bin:$PATH"
+
+# 2.install idea
+flutter doctor
+
+# spring
+# 1.install jdk8
+
+# 2.install idea
